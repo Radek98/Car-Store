@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Gość_1\Desktop\Projekt 2020.cs" Link="Projekt 2020.cs" />
+  </ItemGroup>
+
+</Project>
